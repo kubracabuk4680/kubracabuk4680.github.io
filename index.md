@@ -6,7 +6,7 @@ Bu sayfa içerisinde
 * sanata ait repolar
 * bilgiler
 * duyurular
-* 
+ 
 
 paylaşılmaktadır 
 
