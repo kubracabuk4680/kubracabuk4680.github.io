@@ -10,5 +10,5 @@ Bu sayfa içerisinde
 * duyurular
 paylaşılmaktadır 
 
-sayfa yönetimi [Kübra Çabuk](kubracabuk4680.github.io) tarafından yapılmaktadır
+sayfa yönetimi [Kübra Çabuk](https://kubracabuk4680.github.io/) tarafından yapılmaktadır
 
